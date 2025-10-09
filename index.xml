@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bits of Pixels</title>
+    <link>https://Bitsofpixels.github.io.git/</link>
+    <description>Recent content on Bits of Pixels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Thu, 09 Oct 2025 19:17:36 +0100</lastBuildDate><atom:link href="https://Bitsofpixels.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Coming soon</title>
+      <link>https://Bitsofpixels.github.io.git/posts/comingsoon/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>https://Bitsofpixels.github.io.git/posts/comingsoon/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -9,13 +9,43 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/Bitsofpixels/posts/pixelartcard/</loc>
+    <lastmod>2025-10-09T19:17:36+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Bitsofpixels/posts/comingsoon/</loc>
     <lastmod>2025-10-09T19:17:36+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/Bitsofpixels/posts/minifarmingmockup/</loc>
+    <lastmod>2025-10-09T19:17:36+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Bitsofpixels/posts/highlandisland/</loc>
+    <lastmod>2025-10-09T19:17:36+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Bitsofpixels/posts/minipixelart/</loc>
+    <lastmod>2025-10-09T19:17:36+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/Bitsofpixels/posts/</loc>
+    <lastmod>2025-10-09T19:17:36+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Bitsofpixels/posts/sportscar/</loc>
     <lastmod>2025-10-09T19:17:36+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

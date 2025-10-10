@@ -10,6 +10,16 @@
     <lastBuildDate>Thu, 09 Oct 2025 19:17:36 +0100</lastBuildDate><atom:link href="http://localhost:1313/Bitsofpixels/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Card mockup</title>
+      <link>http://localhost:1313/Bitsofpixels/posts/pixelartcard/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Bitsofpixels/posts/pixelartcard/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/pixelartcard/featured.png" />
+    </item>
+    
+    <item>
       <title>Coming soon</title>
       <link>http://localhost:1313/Bitsofpixels/posts/comingsoon/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
@@ -17,6 +27,46 @@
       <guid>http://localhost:1313/Bitsofpixels/posts/comingsoon/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/comingsoon/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Farming mini mockup</title>
+      <link>http://localhost:1313/Bitsofpixels/posts/minifarmingmockup/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Bitsofpixels/posts/minifarmingmockup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/minifarmingmockup/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Highland Island</title>
+      <link>http://localhost:1313/Bitsofpixels/posts/highlandisland/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Bitsofpixels/posts/highlandisland/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/highlandisland/featured.png" />
+    </item>
+    
+    <item>
+      <title>Mini pixel art</title>
+      <link>http://localhost:1313/Bitsofpixels/posts/minipixelart/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Bitsofpixels/posts/minipixelart/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/minipixelart/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sports car</title>
+      <link>http://localhost:1313/Bitsofpixels/posts/sportscar/</link>
+      <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
+      
+      <guid>http://localhost:1313/Bitsofpixels/posts/sportscar/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/sportscar/featured.png" />
     </item>
     
   </channel>

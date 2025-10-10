@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: https://fakequark.github.io/Bitsofpixels/sitemap.xml
+Disallow: /
+Sitemap: http://localhost:1313/Bitsofpixels/sitemap.xml

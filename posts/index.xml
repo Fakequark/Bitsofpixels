@@ -16,7 +16,7 @@
       
       <guid>http://localhost:1313/Bitsofpixels/posts/comingsoon/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/comingsoon/card-310x268-48x66-Recovered-RecovereBd.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Bitsofpixels/posts/comingsoon/featured.gif" />
     </item>
     
   </channel>

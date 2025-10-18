@@ -6,14 +6,16 @@
     <description>Recent content on Bits of Pixels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 </copyright>
+    <managingEditor>diego@bitsofpixels.com (Diego)</managingEditor>
+    <webMaster>diego@bitsofpixels.com (Diego)</webMaster>
+    <copyright>© 2025 Diego</copyright>
     <lastBuildDate>Thu, 09 Oct 2025 19:17:36 +0100</lastBuildDate><atom:link href="https://Bitsofpixels.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Card mockup</title>
       <link>https://Bitsofpixels.com/posts/pixelartcard/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/pixelartcard/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/pixelartcard/featured.png" />
@@ -23,7 +25,7 @@
       <title>Coming soon</title>
       <link>https://Bitsofpixels.com/posts/comingsoon/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/comingsoon/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/comingsoon/featured.gif" />
@@ -33,7 +35,7 @@
       <title>Farming mini mockup</title>
       <link>https://Bitsofpixels.com/posts/minifarmingmockup/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/minifarmingmockup/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/minifarmingmockup/featured.gif" />
@@ -43,7 +45,7 @@
       <title>Highland Island</title>
       <link>https://Bitsofpixels.com/posts/highlandisland/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/highlandisland/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/highlandisland/featured.png" />
@@ -53,7 +55,7 @@
       <title>Mini pixel art</title>
       <link>https://Bitsofpixels.com/posts/minipixelart/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/minipixelart/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/minipixelart/featured.png" />
@@ -63,7 +65,7 @@
       <title>Sports car</title>
       <link>https://Bitsofpixels.com/posts/sportscar/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
-      
+      <author>diego@bitsofpixels.com (Diego)</author>
       <guid>https://Bitsofpixels.com/posts/sportscar/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/sportscar/featured.png" />

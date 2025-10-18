@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bits of Pixels</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Bitsofpixels.com/</link>
     <description>Recent content on Bits of Pixels</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 19:17:36 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 19:17:36 +0100</lastBuildDate><atom:link href="https://Bitsofpixels.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Card mockup</title>
-      <link>http://localhost:1313/posts/pixelartcard/</link>
+      <link>https://Bitsofpixels.com/posts/pixelartcard/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/pixelartcard/</guid>
+      <guid>https://Bitsofpixels.com/posts/pixelartcard/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pixelartcard/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/pixelartcard/featured.png" />
     </item>
     
     <item>
       <title>Coming soon</title>
-      <link>http://localhost:1313/posts/comingsoon/</link>
+      <link>https://Bitsofpixels.com/posts/comingsoon/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/comingsoon/</guid>
+      <guid>https://Bitsofpixels.com/posts/comingsoon/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/comingsoon/featured.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/comingsoon/featured.gif" />
     </item>
     
     <item>
       <title>Farming mini mockup</title>
-      <link>http://localhost:1313/posts/minifarmingmockup/</link>
+      <link>https://Bitsofpixels.com/posts/minifarmingmockup/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/minifarmingmockup/</guid>
+      <guid>https://Bitsofpixels.com/posts/minifarmingmockup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/minifarmingmockup/featured.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/minifarmingmockup/featured.gif" />
     </item>
     
     <item>
       <title>Highland Island</title>
-      <link>http://localhost:1313/posts/highlandisland/</link>
+      <link>https://Bitsofpixels.com/posts/highlandisland/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/highlandisland/</guid>
+      <guid>https://Bitsofpixels.com/posts/highlandisland/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/highlandisland/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/highlandisland/featured.png" />
     </item>
     
     <item>
       <title>Mini pixel art</title>
-      <link>http://localhost:1313/posts/minipixelart/</link>
+      <link>https://Bitsofpixels.com/posts/minipixelart/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/minipixelart/</guid>
+      <guid>https://Bitsofpixels.com/posts/minipixelart/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/minipixelart/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/minipixelart/featured.png" />
     </item>
     
     <item>
       <title>Sports car</title>
-      <link>http://localhost:1313/posts/sportscar/</link>
+      <link>https://Bitsofpixels.com/posts/sportscar/</link>
       <pubDate>Thu, 09 Oct 2025 19:17:36 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/sportscar/</guid>
+      <guid>https://Bitsofpixels.com/posts/sportscar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sportscar/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Bitsofpixels.com/posts/sportscar/featured.png" />
     </item>
     
   </channel>
